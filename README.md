@@ -58,6 +58,19 @@ git push -u origin main
 
 If you want, I can create the commit for you locally and show the exact commands.
 
+## Contributors & Roles
+
+This project was completed collaboratively. Special thanks to:
+
+| Name                | Role(s) & Contribution                |
+|---------------------|---------------------------------------|
+| Harsh (bhycoder926) | Project lead, hardware design, coding, documentation |
+| [Friend Name 1]     | [Role: e.g., hardware, coding, testing, dashboard] |
+| [Friend Name 2]     | [Role: e.g., wiring, code review, presentation] |
+| [Friend Name 3]     | [Role: e.g., research, debugging, deployment] |
+
+_Add more rows as needed. Please fill in your friends' names and their specific roles._
+
 ## License
 
 This project is MIT licensed. See `LICENSE` for details.
