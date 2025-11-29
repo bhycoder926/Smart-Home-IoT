@@ -56,8 +56,6 @@ git remote add origin https://github.com/<your-username>/<repo-name>.git
 git push -u origin main
 ```
 
-If you want, I can create the commit for you locally and show the exact commands.
-
 ## Contributors & Roles
 
 This project was completed collaboratively. Special thanks to:
@@ -68,8 +66,6 @@ This project was completed collaboratively. Special thanks to:
 | Busetty Sugnesh (BUSETTY-SUGNESH)    | Role:  hardware, coding, testing, dashboard |
 | Chandana M (hansi-ka)    | Role:  wiring, code review, presentation |
 | Hansika (chandana-262005)    | Role:  research, debugging, deployment |
-
-_Add more rows as needed. Please fill in your friends' names and their specific roles._
 
 ## License
 
