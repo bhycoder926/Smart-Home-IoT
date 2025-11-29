@@ -64,10 +64,10 @@ This project was completed collaboratively. Special thanks to:
 
 | Name                | Role(s) & Contribution                |
 |---------------------|---------------------------------------|
-| Harsh (bhycoder926) | Project lead, hardware design, coding, documentation |
-| [Friend Name 1]     | [Role: e.g., hardware, coding, testing, dashboard] |
-| [Friend Name 2]     | [Role: e.g., wiring, code review, presentation] |
-| [Friend Name 3]     | [Role: e.g., research, debugging, deployment] |
+| Bhyresh B S (bhycoder926) | Project lead, hardware design, coding, documentation |
+| Busetty Sugnesh     | Role:  hardware, coding, testing, dashboard |
+| Chandana M     | Role:  wiring, code review, presentation |
+| Hansika     | Role:  research, debugging, deployment |
 
 _Add more rows as needed. Please fill in your friends' names and their specific roles._
 
