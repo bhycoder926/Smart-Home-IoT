@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Photos directory
+door_photos/
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
+
+# Arduino / build artefacts
+*.elf
+*.bin
+*.hex
