@@ -65,9 +65,9 @@ This project was completed collaboratively. Special thanks to:
 | Name                | Role(s) & Contribution                |
 |---------------------|---------------------------------------|
 | Bhyresh B S (bhycoder926) | Project lead, hardware design, coding, documentation |
-| Busetty Sugnesh     | Role:  hardware, coding, testing, dashboard |
-| Chandana M     | Role:  wiring, code review, presentation |
-| Hansika     | Role:  research, debugging, deployment |
+| Busetty Sugnesh (BUSETTY-SUGNESH)    | Role:  hardware, coding, testing, dashboard |
+| Chandana M (hansi-ka)    | Role:  wiring, code review, presentation |
+| Hansika (chandana-262005)    | Role:  research, debugging, deployment |
 
 _Add more rows as needed. Please fill in your friends' names and their specific roles._
 
