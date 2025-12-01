@@ -227,13 +227,6 @@ Notes:
 
 ---
 
-If you want, I can:
-- Generate a template JSON export (widget layout) that you can import into Blynk (requires manual creation in web dashboard).
-- Update your project files to read tokens from an external `secrets` file or environment variables before you push them to GitHub.
-
- 
----
-
 ## 12. Using Door + Camera Together (End-to-End)
 
 This section explains the typical interactions when the laptop camera and door-lock ESP32 work together, and how to test and automate their combined behavior.

@@ -58,8 +58,6 @@ git push -u origin main
 
 ## Contributors & Roles
 
-This project was completed collaboratively. Special thanks to:
-
 | Name                | Role(s) & Contribution                |
 |---------------------|---------------------------------------|
 | Bhyresh B S (bhycoder926) | Project lead, hardware design, coding, documentation |

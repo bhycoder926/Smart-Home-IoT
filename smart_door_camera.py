@@ -52,8 +52,9 @@ MOTION_THRESHOLD = 5000  # Adjust this value for sensitivity
 MOTION_COOLDOWN = 10  # Seconds between motion alerts
 MIN_CONTOUR_AREA = 500  # Minimum area to consider as motion
 
-# Photo save directory
-PHOTOS_DIR = "door_photos"
+# Photo save directory (absolute path - same folder as script)
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PHOTOS_DIR = os.path.join(SCRIPT_DIR, "door_photos")
 
 # ============= BLYNK API FUNCTIONS =============
 
